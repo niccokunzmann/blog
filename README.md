@@ -2,7 +2,7 @@
 
 Es geht.
 
-`/boot.config.txt`:
+`/boot/config.txt`:
 
     # For more options and information see
     # http://www.raspberrypi.org/documentation/configuration/config-txt.md
