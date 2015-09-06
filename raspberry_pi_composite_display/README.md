@@ -65,6 +65,7 @@
 
 Links: 
 
-- http://raspberrypi.stackexchange.com/questions/13803/how-to-override-config-txt-settings-during-boot
-- https://www.raspberrypi.org/documentation/configuration/config-txt.md
+- [Pollin](http://www.pollin.de/shop/dt/NDgwOTc4OTk-/Bauelemente_Bauteile/Aktive_Bauelemente/Displays/4_3_10_9_cm_Display_Set_JD43T30_C_MEX043TM_40D_HYO_CO_CVBS.html)
+- [config text file](https://www.raspberrypi.org/documentation/configuration/config-txt.md)
+- [Stackexchange](http://raspberrypi.stackexchange.com/questions/13803/how-to-override-config-txt-settings-during-boot)
 
