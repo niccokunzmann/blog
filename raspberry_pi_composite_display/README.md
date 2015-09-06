@@ -1,6 +1,6 @@
 # Raspberry Pi mit Composite Video und Pollins 4.3" (10,9 cm) Display-Set
 
-Es geht.
+![](picture.jpg)
 
 `/boot/config.txt`:
 
@@ -64,5 +64,7 @@ Es geht.
 
 
 Links: 
+
 - http://raspberrypi.stackexchange.com/questions/13803/how-to-override-config-txt-settings-during-boot
 - https://www.raspberrypi.org/documentation/configuration/config-txt.md
+
