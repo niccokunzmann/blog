@@ -28,6 +28,7 @@
     framebuffer_height=272
     
     # uncomment if hdmi display is not detected and composite is being output
+    # hdmi will still work
     hdmi_force_hotplug=0
     
     # uncomment to force a specific HDMI mode (this will force VGA)
@@ -74,6 +75,9 @@ To edit the file:
 5. Control+X closes the file
 6. Restart
 
+FAQ:
+
+- Will HDMI still work? - Yes.
 
 Links: 
 
